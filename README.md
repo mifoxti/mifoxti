@@ -29,8 +29,8 @@
 ### 📈 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mifoxti&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mifoxti&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
 </p>
 
 <p align="center">
